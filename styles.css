@@ -1,3 +1,20 @@
 .favorite {
     background-color: lightblue
 }
+
+.user {
+	list-style-type: none;
+}
+
+.favorite {
+	background-color: lightblue;
+}
+
+li div {
+	width: 200px;
+	margin: auto;
+}
+
+li {
+	text-align: center;
+}
